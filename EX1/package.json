@@ -1,0 +1,14 @@
+{
+  "name": "aprendentypescript",
+  "version": "1.0.0",
+  "description": "Aprendendo TypeScript",
+  "main": "ex1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Fernando",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
